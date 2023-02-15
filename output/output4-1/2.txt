@@ -1,0 +1,5 @@
+x: 624.5
+y: 88.0
+width: 225.0
+height: 288.0
+Maisie

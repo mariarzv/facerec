@@ -1,0 +1,5 @@
+x: 622
+y: 86
+width: 220
+height: 290
+Emilia

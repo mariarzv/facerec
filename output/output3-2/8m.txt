@@ -1,0 +1,5 @@
+x: 476
+y: 185
+width: 224
+height: 279
+Kit

@@ -1,0 +1,5 @@
+x: 525
+y: 147
+width: 226
+height: 285
+Sophie

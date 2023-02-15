@@ -1,0 +1,5 @@
+x: 528.0
+y: 200.0
+width: 192.0
+height: 256.0
+Emilia

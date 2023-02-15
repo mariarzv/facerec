@@ -1,0 +1,5 @@
+x: 825
+y: 45
+width: 83
+height: 130
+Lena
